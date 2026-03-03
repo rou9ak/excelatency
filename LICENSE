@@ -1,21 +1,140 @@
-MIT License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
-Copyright (c) 2026 rou9ak
+ecxelatency — A Multi-Domain Archive of Question Papers and Solutions
+Copyright (c) 2024–present, ecxelatency contributors
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+=======================================================================
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Creative Commons Corporation ("Creative Commons") is not a law firm and
+does not provide legal services or legal advice. Distribution of
+Creative Commons public licenses does not create a lawyer-client or
+other relationship. Creative Commons makes its licenses and related
+information available on an "as-is" basis. Creative Commons gives no
+warranties regarding its licenses, any material licensed under their
+terms and conditions, or any related information. Creative Commons
+disclaims all liability for damages resulting from their use to the
+fullest extent possible.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+=======================================================================
+
+CREATIVE COMMONS ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL
+PUBLIC LICENSE
+
+By exercising the Licensed Rights (defined below), You accept and agree
+to be bound by the terms and conditions of this Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International Public License
+("Public License").
+
+-----------------------------------------------------------------------
+
+SECTION 1 — DEFINITIONS
+
+a. "Adapted Material" means material subject to Copyright and Similar
+   Rights that is derived from or based upon the Licensed Material.
+
+b. "Licensed Material" refers to all content in this repository,
+   including but not limited to: question papers, worked solutions
+   (handwritten or typeset in LaTeX), notes, code, and documentation.
+
+c. "Licensed Rights" means the rights granted to You subject to the
+   terms and conditions of this Public License.
+
+d. "NonCommercial" means not primarily intended for or directed towards
+   commercial advantage or monetary compensation.
+
+e. "Share" means to provide material to the public by any means or
+   process that requires permission under the Licensed Rights.
+
+f. "ShareAlike" means You may distribute Adapted Material only under
+   the same or a compatible license as this one.
+
+-----------------------------------------------------------------------
+
+SECTION 2 — SCOPE
+
+Subject to the terms and conditions of this Public License, the
+Licensor hereby grants You a worldwide, royalty-free, non-sublicensable,
+non-exclusive, irrevocable license to:
+
+  a. reproduce and Share the Licensed Material, in whole or in part,
+     for NonCommercial purposes only;
+
+  b. produce, reproduce, and Share Adapted Material for NonCommercial
+     purposes only.
+
+-----------------------------------------------------------------------
+
+SECTION 3 — LICENSE CONDITIONS
+
+Your exercise of the Licensed Rights is expressly made subject to the
+following conditions:
+
+  ATTRIBUTION
+  -----------
+  If You Share the Licensed Material (including in modified form), You must:
+
+  · Retain identification of the original author(s) and this repository.
+  · Provide a URI or hyperlink to the Licensed Material where reasonably
+    practicable (https://github.com/[your-username]/ecxelatency).
+  · Indicate if You modified the material and retain an indication of
+    any previous modifications.
+  · Not suggest the Licensor endorses You or Your use.
+
+  NONCOMMERCIAL
+  -------------
+  You may not use the Licensed Material for commercial purposes. This
+  includes, but is not limited to: incorporating solutions into paid
+  courses, selling compiled question banks, or monetising derivative
+  works without prior written permission from the author.
+
+  SHAREALIKE
+  ----------
+  If You produce Adapted Material, You must license it under the same
+  Creative Commons BY-NC-SA 4.0 license, or a compatible license.
+
+  ACADEMIC INTEGRITY
+  ------------------
+  You may not submit any part of the Licensed Material as your own
+  original academic work in any course, examination, or institution.
+  This constitutes academic fraud and is a violation of this license,
+  independent of any institutional policy.
+
+-----------------------------------------------------------------------
+
+SECTION 4 — DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+
+  a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE
+     EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS
+     AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF
+     ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS,
+     IMPLIED, STATUTORY, OR OTHER.
+
+  b. The Licensor will not be liable to You for any loss arising out
+     of or relating to this Public License or use of the Licensed
+     Material, including direct, special, indirect, incidental,
+     consequential, punitive, exemplary, or other losses.
+
+-----------------------------------------------------------------------
+
+SECTION 5 — TERM AND TERMINATION
+
+  a. This Public License applies for the term of the Copyright and
+     Similar Rights licensed here.
+
+  b. Your rights under this Public License terminate automatically if
+     You fail to comply with any of its terms, including the academic
+     integrity clause.
+
+-----------------------------------------------------------------------
+
+Creative Commons is not a party to its public licenses. The full legal
+text of CC BY-NC-SA 4.0 is available at:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+For permissions beyond the scope of this license, contact the
+repository maintainer via GitHub Issues.
+
+=======================================================================
+
+  "The goal is not to know everything — it's to be unafraid of anything."
+                                                    — ecxelatency
